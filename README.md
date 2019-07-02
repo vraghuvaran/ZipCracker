@@ -4,5 +4,11 @@ A simple Encrypted(password protected) Zip File cracker...!! <br/>
 <br/>You can also run this in Termux,But ensure all that modules required is properly installed<br />
 # How To Install
 To install type these commands....
+```
+git clone https://github.com/vraghuvaran/ZipCracker.git
+```
+```
+cd ZipCracker
+```
 
 
