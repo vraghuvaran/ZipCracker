@@ -37,3 +37,10 @@ Options:
   -d ZDICT, --dict=ZDICT
                         specify the dictionary
 ```
+# Note
+Finding the passwords depends upon the DICTIONARY file provided by you  -:)<br>
+# Contact
+For any Queries :)
+```
+Mail : oldmonk.h@gmail.com
+```
